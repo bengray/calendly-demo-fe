@@ -1,0 +1,1 @@
+This code is MIT licensed. Feel free to use it as you see fit with or without attribution.
